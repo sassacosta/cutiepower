@@ -1,13 +1,11 @@
 {
-  "name": "cutiepower",
-  "version": "1.0",
-  "license": "MIT",
-  "keywords": [
-    "hyper",
-    "hyper.app",
-    "hyper-plugin"
-  ],
-  "description": "Extension for hearts effects in Hyper",
+  "name": "@sassacosta/cutiepower",
+  "version": "1.0.0",
+  "description": "Extension for Hyper, based on the cool hyperpower extension, that turns on cute heart mode, with bonus wow heart mode.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sassacosta/cutiepower.git"
@@ -17,5 +15,16 @@
     "convert-css-color-name-to-hex": "0.1.1",
     "lodash.throttle": "4.1.1",
     "lodash.values": "4.3.0"
-  }
+  },
+  "keywords": [
+    "hyper",
+    "hyper.app",
+    "hyper-plugin"
+  ],
+  "author": "sassacosta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sassacosta/cutiepower/issues"
+  },
+  "homepage": "https://github.com/sassacosta/cutiepower#readme"
 }
