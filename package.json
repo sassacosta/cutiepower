@@ -1,0 +1,21 @@
+{
+  "name": "cutiepower",
+  "version": "1.0",
+  "license": "MIT",
+  "keywords": [
+    "hyper",
+    "hyper.app",
+    "hyper-plugin"
+  ],
+  "description": "Extension for hearts effects in Hyper",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sassacosta/cutiepower.git"
+  },
+  "dependencies": {
+    "color": "0.11.3",
+    "convert-css-color-name-to-hex": "0.1.1",
+    "lodash.throttle": "4.1.1",
+    "lodash.values": "4.3.0"
+  }
+}
