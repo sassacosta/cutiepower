@@ -8,7 +8,7 @@ Extension for Hyper, based on the cool hyperpower extension, that turns on cute 
 
 ## How to use
 
-Install [Hyper](https://hyper.is) and use `hyper install cutiepower`.
+Install [Hyper](https://hyper.is), run `hyper install @sassacosta/cutiepower` and restart hyper.
 
 ## Credits
 
