@@ -1,6 +1,6 @@
 {
   "name": "@sassacosta/cutiepower",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Extension for Hyper, based on the cool hyperpower extension, that turns on cute heart mode, with bonus wow heart mode.",
   "main": "index.js",
   "scripts": {
